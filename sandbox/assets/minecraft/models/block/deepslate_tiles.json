@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "side": "block/soul_sandstone_pillar_side",
+        "top": "block/soul_sandstone_pillar_top",
+        "bottom":"block/soul_sandstone_pillar_top"
+    }
+}
