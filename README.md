@@ -1,0 +1,1 @@
+You are not to use this resource pack for any purposes, commercial or not, unless given explicit and direct permission from GitHub user "pixliistormet".
